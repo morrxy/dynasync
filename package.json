@@ -1,0 +1,12 @@
+{
+  "name": "dynasync",
+  "version": "0.0.0",
+  "description": "demo of dynamically sync each dir",
+  "author": "morrxy",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-sync": "0.0.6"
+  }
+}
